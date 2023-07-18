@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MagicalStrangeQuark/MagicalStrangeQuark/master/assets/book.svg" width="400"></p>
 
-<p align="center">Repository containing <a href="https://drive.google.com/drive/folders/1QOU2KW0J9rFEljGwh-_XY02csvBY-kbZ?usp=sharing">👉 Library 👈</a></p>
+<p align="center">Repository containing my <a href="https://drive.google.com/drive/folders/1QOU2KW0J9rFEljGwh-_XY02csvBY-kbZ?usp=sharing">👉 Library 👈</a></p>
 
 <p align="center">
     <a href="#">
@@ -19,35 +19,17 @@
 
 ## Class 000 - Computer Science, Information and General Works
 
-```typescript
-[
-    {
-      "name": "A Arte de Escrever Programas Legíveis: Técnicas Simples e Práticas para Elaboração de Programas Fáceis de Serem Lidos e Entendidos",
-      "author": ["Dustin Boswell", "Trevor Foucher"]
-    },
-    {
-      "name": "Engenharia de Requisitos de Software - 2011, Editora Unisinos",
-      "author": ["Vinícius Costa de Souza"]
-    },
-    {
-      "name": "Banco de Dados - Desenvolvimento de Aplicações, 2° Edição",
-      "author": ["Denise Bandeira"]
-    }
-]
-```
+📚 <a href="https://www.amazon.com.br/dp/8575222945">Dustin Boswell, Trevor Foucher - A Arte de Escrever Programas Legíveis: Técnicas Simples e Práticas para Elaboração de Programas Fáceis de Serem Lidos e Entendidos</a>
+
+📚 <a href="https://www.amazon.com.br/dp/8575222945">Vinícius Costa de Souza - Engenharia de Requisitos de Software - 2011, Editora Unisinos</a>
+
+📚 <a href="https://www.amazon.com.br/dp/8575222945">Denise Bandeira - Banco de Dados - Desenvolvimento de Aplicações, 2° Edição</a>
 
 ## Class 100 - Philosophy and Psychology
 
 ### 100 - Philosophy
 
-```typescript
-[
-    {
-      "name": "38 Estratégias Para Vencer Qualquer Debate",
-      "author": ["Arthur Schopenhauer"]
-    }
-]
-```
+📚 <a href="https://www.amazon.com.br/dp/8562409022">Arthur Schopenhauer - 38 Estratégias Para Vencer Qualquer Debate</a>
 
 ### 150 - Psychology
 
@@ -235,12 +217,10 @@
 
 📚 <a href="https://drive.google.com/file/d/1CeqidHyIn59M40AltyFsjKxuCQ1FPzap/view?usp=sharing">Ian Stewart - In Pursuit of the Unknown - 17 Equations That Changed the World</a>
 
+📚 <a href="https://www.amazon.com/dp/8571104484">Richard Brennan - Gigantes da Física - Uma História da Física Moderna Através de Oito Biografias</a>
+
 ```typescript
 [
-    {
-      "name": "Gigantes da Física - Uma História da Física Moderna Através de Oito Biografias",
-      "author": ["Richard Brennan"]
-    },
     {
       "name": "O Universo Numa Casca de Noz",
       "author": ["Stephen Hawking"]
@@ -258,7 +238,7 @@
 
 #### 540 - Chemistry
 
-📚 <a href="https://drive.google.com/file/d/1CPjNr-nxfdFDIesSQJ1faQ-F9oB4df_e/view?usp=sharing">Sam Kean - A Colher Que Desaparece - e Outras Histórias Reais de Loucura, Amor e Morte a Partir dos Elementos Químicos.pdf</a>
+📚 <a href="https://drive.google.com/file/d/1CPjNr-nxfdFDIesSQJ1faQ-F9oB4df_e/view?usp=sharing">Sam Kean - A Colher Que Desaparece - e Outras Histórias Reais de Loucura, Amor e Morte a Partir dos Elementos Químicos</a>
 
 ```typescript
 [
@@ -563,4 +543,3 @@
     }
 ]
 ```
-
