@@ -21,9 +21,9 @@
 
 📚 <a href="https://www.amazon.com.br/dp/8575222945">Dustin Boswell, Trevor Foucher - A Arte de Escrever Programas Legíveis: Técnicas Simples e Práticas para Elaboração de Programas Fáceis de Serem Lidos e Entendidos</a>
 
-📚 <a href="https://www.amazon.com.br/dp/8575222945">Vinícius Costa de Souza - Engenharia de Requisitos de Software - 2011, Editora Unisinos</a>
+📚 <a href="#">Vinícius Costa de Souza - Engenharia de Requisitos de Software - 2011, Editora Unisinos</a>
 
-📚 <a href="https://www.amazon.com.br/dp/8575222945">Denise Bandeira - Banco de Dados - Desenvolvimento de Aplicações, 2° Edição</a>
+📚 <a href="#">Denise Bandeira - Banco de Dados - Desenvolvimento de Aplicações, 2° Edição</a>
 
 ## Class 100 - Philosophy and Psychology
 
