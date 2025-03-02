@@ -33,6 +33,8 @@
 
 ### 150 - Psychology
 
+📚 <a href="https://drive.google.com/file/d/147VUjRk8VjSgY1wvDey8JK8qBE7_eykO/view">David Goggins - Nada Pode Me Ferir</a>
+
 ```typescript
 [
     {
